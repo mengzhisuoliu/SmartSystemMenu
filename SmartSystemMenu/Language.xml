@@ -1114,7 +1114,7 @@
       <item name="save_screenshot_default_ext" value="bmp" />
       <item name="save_screenshot_filter" value="ビットマップ画像 (*.bmp)|*.bmp|GIF 画像 (*.gif)|*.gif|JPEG 画像 (*.jpeg)|*.jpeg|PNG 画像 (*.png)|*.png|TIFF 画像 (*.tiff)|*.tiff|WMF 画像 (*.wmf)|*.wmf" />
       <item name="icon_default_ext" value="ico" />
-      <item name="icon_filter" value="Icon (*.ico)|*.ico|ビットマップ画像 (*.bmp)|*.bmp|GIF 画像 (*.gif)|*.gif|JPEG 画像 (*.jpeg)|*.jpeg|PNG 画像 (*.png)|*.png|TIFF 画像 (*.tiff)|*.tiff|WMF 画像 (*.wmf)|*.wmf|すべてのファイル (*.*)|*.*" />
+      <item name="icon_filter" value="アイコン (*.ico)|*.ico|ビットマップ画像 (*.bmp)|*.bmp|GIF 画像 (*.gif)|*.gif|JPEG 画像 (*.jpeg)|*.jpeg|PNG 画像 (*.png)|*.png|TIFF 画像 (*.tiff)|*.tiff|WMF 画像 (*.wmf)|*.wmf|すべてのファイル (*.*)|*.*" />
       <item name="size_form" value="サイズ" />
       <item name="size_btn_apply" value="適用" />
       <item name="lbl_size_form_height" value="高さ:" />
@@ -1172,7 +1172,7 @@
       <item name="lbl_window_size_width" value="幅:" />
       <item name="lbl_window_size_height" value="高さ:" />
       <item name="lbl_window_size_top" value="上:" />
-      <item name="lbl_window_size_left" value=" 左:" />
+      <item name="lbl_window_size_left" value="左:" />
       <item name="lbl_window_size_key1" value="キー 1:" />
       <item name="lbl_window_size_key2" value="キー 2:" />
       <item name="lbl_window_size_key3" value="キー 3:" />
