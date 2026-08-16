@@ -1,0 +1,29 @@
+#include "resource.h"
+#include "winres.h"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     2,33,1,0
+PRODUCTVERSION  2,33,1,0
+FILEFLAGSMASK   0x3fL
+FILEFLAGS       0x0L
+FILEOS          VOS_NT_WINDOWS32
+FILETYPE        VFT_DLL
+FILESUBTYPE     VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "Alexander Illarionov\0"
+            VALUE "FileDescription", "SmartSystemMenu\0"
+            VALUE "FileVersion", "2.33.1.0\0"
+            VALUE "ProductName", "SmartSystemMenu\0"
+            VALUE "ProductVersion", "2.33.1\0"
+            VALUE "LegalCopyright", "Copyright © 2005\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 0x4B0
+    END
+END
